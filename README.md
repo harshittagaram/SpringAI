@@ -17,4 +17,4 @@ A simple web application that integrates with the Ollama AI model to provide nat
    git clone https://github.com/harshittagaram/SpringAI-Ollama.git
    
 
-![Screenshot 2025-04-13 152928](https://github.com/user-attachments/assets/73728a0a-57da-491b-844d-9e1e245a154c)
+![Screenshot 2025-04-13 152928](https://github.com/user-attachments/assets/5859f77d-eab6-4798-b11c-99d2a9e401db)
